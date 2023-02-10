@@ -14,16 +14,16 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Zain's Cloud Journey
 
-[✍️ Introduce yourself]
+My name is Zain Adtani. I am a recent college graduate with a degree in Mechanical Engineering, seeking to transition into the cloud computing field with a focus on Amazon Web Services (AWS). Certified AWS Cloud Practitioner with experience in data analytics and proficient in SQL and Python. Committed to obtaining additional AWS certifications and growing expertise in the field through hands-on experience and learning opportunities. Passionate about utilizing technology to solve complex problems and drive innovation. Aiming to join a dynamic organization where I can make a meaningful impact and further develop my skills.
 
-[✍️ Tell us why you started this challenge]
+To gain real world skills and get more comfortable with the services.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+I want to be able to understand AWS and all the services that will allow me to get a good cloud based job.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [✍️ Link to your Twitter](https://twitter.com/AdtaniZain)
+- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/zka1)
 
 ## Stepping out the door
 
